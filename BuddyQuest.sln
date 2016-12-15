@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddyQuest.CSharp", "BuddyQuest.CSharp.csproj", "{E014D544-43C4-1821-7496-7F3B8D87ADCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuddyQuest.CSharp.Editor", "BuddyQuest.CSharp.Editor.csproj", "{1ADC180B-78E5-6E70-2215-2EEECC8EEE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E014D544-43C4-1821-7496-7F3B8D87ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E014D544-43C4-1821-7496-7F3B8D87ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E014D544-43C4-1821-7496-7F3B8D87ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E014D544-43C4-1821-7496-7F3B8D87ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADC180B-78E5-6E70-2215-2EEECC8EEE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADC180B-78E5-6E70-2215-2EEECC8EEE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADC180B-78E5-6E70-2215-2EEECC8EEE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADC180B-78E5-6E70-2215-2EEECC8EEE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
